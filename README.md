@@ -1,2 +1,2 @@
-# starisone.github.io
+# mirrordotcore.github.io
 justgonnaemptythis
